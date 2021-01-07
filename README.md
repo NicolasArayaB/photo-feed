@@ -2,7 +2,7 @@
 
 This is my very first project in 4Geeks Academy.
 
-This is thought to practice my beginner HTML/CSS skills. On this project will be exercising the following concepts:
+This was thought to practice my beginner HTML/CSS skills. On this project will be exercising the following concepts:
 
 Reusing CSS classes.
 Display and Position CSS Rules.
